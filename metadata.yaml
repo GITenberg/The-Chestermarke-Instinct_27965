@@ -1,0 +1,29 @@
+_repo: The-Chestermarke-Instinct_27965
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fletcher, J. S. (Joseph Smith)
+    alias: Fletcher, Joseph Smith
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '1761'
+    url: http://www.gutenberg.org/2009/agents/1761
+    wikipedia: http://en.wikipedia.org/wiki/J._S._Fletcher
+description: ''
+gutenberg_issued: '2009-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27965'
+  lccn: '21006796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: The Chestermarke Instinct
+url: http://www.gutenberg.org/ebooks/27965
